@@ -1,2 +1,1 @@
-# CS-GO
-A short data analysis on the csgo dataset provided by HLTV where I practice basic scraping and plotting
+This repository contains an assortment of files where I carry out different projects.
